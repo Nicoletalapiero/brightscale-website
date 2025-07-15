@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Digital Marketing Agency</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #111827;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin: 1rem 0;
+    }
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+      background: #fff;
+      margin-top: 2rem;
+      border-radius: 8px;
+    }
+    footer {
+      background: #111827;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #2563eb;
+      color: #fff;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BrightScale Digital</h1>
+    <p>Your Growth, Our Strategy</p>
+    <nav>
+      <ul>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Social Media Marketing</li>
+      <li>Search Engine Optimization (SEO)</li>
+      <li>Pay-Per-Click Advertising</li>
+      <li>Email Marketing</li>
+      <li>Content Strategy & Creation</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We are a results-driven digital marketing agency helping brands grow through customized marketing strategies, creative storytelling, and data-informed decisions. With a focus on performance and innovation, we partner with clients to elevate their digital presence.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: hello@brightscaleagency.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <a href="mailto:hello@brightscaleagency.com" class="cta">Get in Touch</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 BrightScale Digital. All rights reserved.</p>
+  </footer>
+</body>
+</html>
